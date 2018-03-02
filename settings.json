@@ -3,8 +3,8 @@
   "tts_url": "https://stream.watsonplatform.net/text-to-speech/api",
   "token_url": "https://stream.watsonplatform.net/authorization/api/v1/token",
 
-  "username": "enter username from credentials",
-  "password": "enter password from credentials",
+  "username": "0bb87a10-d646-43af-9905-540a15b7eabb",
+  "password": "AkceOnq6m2Yz",
   "voice": "en-US_AllisonVoice",
   "accept": "audio/wav"
 }
